@@ -1,6 +1,13 @@
 # Breast Cancer Detection
 Comparison of SVM and KNN algorithms on Breast Cancer Wisconsin (Original) Data Set
 # Data Set Information:
+## Source:
+
+Creator:
+
+Dr. WIlliam H. Wolberg (physician)
+University of Wisconsin Hospitals
+Madison, Wisconsin, USA
 
 1. Sample code number: id number
 2. Clump Thickness: 1 - 10
