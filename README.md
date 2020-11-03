@@ -1,6 +1,7 @@
 # Breast Cancer Detection
-Comparison of SVM and KNN algorithms on Breast Cancer Wisconsin (Original) Data Set
+Comparison of SVM and K-Nearest Neighbours algorithms on Breast Cancer Wisconsin (Original) Data Set
 # Data Set Information:
+
 ## Source:
 
 Creator:
