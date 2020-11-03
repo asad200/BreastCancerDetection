@@ -1,15 +1,15 @@
 # Breast Cancer Detection
 Comparison of SVM and K-Nearest Neighbours algorithms on Breast Cancer Wisconsin (Original) Data Set
-# Data Set Information:
-
-## Source:
+## Data Set Information:
+The data contains 10 parameter values which determine if the Cancer is benign or malignant.
+### Source:
 
 Creator:
 Dr. WIlliam H. Wolberg (physician)
 University of Wisconsin Hospitals
 Madison, Wisconsin, USA
 
-## Features' discription
+### Features' discription
 1. Sample code number: id number
 2. Clump Thickness: 1 - 10
 3. Uniformity of Cell Size: 1 - 10
@@ -21,6 +21,11 @@ Madison, Wisconsin, USA
 9. Normal Nucleoli: 1 - 10
 10. Mitoses: 1 - 10
 11. Class: (2 for benign, 4 for malignant)
+![hist](https://user-images.githubusercontent.com/19656640/98034879-f6e1b400-1e17-11eb-8c52-807383f363c2.png)
+
+## Results
+The rtesults matrics
+![ModelAcc](https://user-images.githubusercontent.com/19656640/98034896-fcd79500-1e17-11eb-8425-2cd1a6c9b4fc.png)
 
 # Acknowledgements
 This breast cancer databases was obtained from the University of Wisconsin Hospitals, Madison from Dr. William H. Wolberg.
