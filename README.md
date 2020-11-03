@@ -24,7 +24,7 @@ Madison, Wisconsin, USA
 ![hist](https://user-images.githubusercontent.com/19656640/98034879-f6e1b400-1e17-11eb-8c52-807383f363c2.png)
 
 ## Results
-The rtesults matrics
+The classification report of the models:
 ![ModelAcc](https://user-images.githubusercontent.com/19656640/98034896-fcd79500-1e17-11eb-8425-2cd1a6c9b4fc.png)
 
 # Acknowledgements
